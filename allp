@@ -21,11 +21,11 @@ print('''%s
 | v / /\ | v / _|| -< |_| /\ | \_|   <  
 |_|_\_||_|_|_\___|__/___|_||_|\__/_|\_\ 
 
- ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
- ☆ Writer:   Quantum CyberSquad      ☆
- ☆ GitHub:   sgtreaz35               ☆  
- ☆ Facebook: Quantum Cyber Squad     ☆
- ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆%s''' % (R,N))    
+ ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+ ☆ Writer:   Quantum CyberSquad   ☆
+ ☆ GitHub:   rareblack35          ☆  
+ ☆ Facebook: Quantum Cyber Squad  ☆
+ ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆%s''' % (R,N))    
      
                        
 print("%s================================================%s" % (G,N))

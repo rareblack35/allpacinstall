@@ -8,8 +8,8 @@ apt install python
 
 apt install python2
 
-apt install git
+apt install git 
 
-git clone 
+git clone https://github.com/rareblack35/allpacinstall.git
 
-python2 
+python all.py
